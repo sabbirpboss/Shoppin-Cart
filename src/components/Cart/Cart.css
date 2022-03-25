@@ -1,0 +1,40 @@
+.selected-items{
+    text-decoration: overline;
+    text-decoration-color: blueviolet;
+    text-decoration-style:double;
+}
+.choose-btn{
+    border: 1px solid green;
+    color: green;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.choose-btn:hover{
+    background-color: green;
+    border-color: #fff;
+    color: #fff;
+    transition: .3s;
+    cursor: pointer;
+}
+.choose-again-btn{
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+.choose-again-btn:hover{
+     background-color: blueviolet;
+    border-color: #fff;
+    color: #fff;
+    transition: .3s;
+    cursor: pointer;
+}

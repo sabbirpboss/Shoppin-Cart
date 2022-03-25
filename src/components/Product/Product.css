@@ -1,5 +1,6 @@
 .product{
     border: 1px solid #ddd;
+    position: relative;
 }
 .product img{
     width: 400px;
@@ -9,19 +10,32 @@
 }
 .product-info{
     margin: 10px;
+    height: 150px;
+}
+.product-name{
+    color: blueviolet;
 }
 
 .addToCart{
-    background-color: orange;
+    background-color: blueviolet;
     width: 100%;
     height: 45px;
     border: none;
     border-top: 1px solid #bbb;
     border-radius: 10px 10px 5px 5px;
     font-size: 16px;
-    color: #000000;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.addToCart p{
+    margin-right: 5px;
 }
 .addToCart:hover{
-    color: #ffffff;
+    color: orange;
+    cursor: pointer;
     transition: 0.3s;
 }
