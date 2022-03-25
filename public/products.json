@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "name": "Sofaset",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "02",
+        "name": "Mockup",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "03",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "04",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "05",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "06",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "07",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "08",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "09",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "10",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "11",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+    {
+        "id": "12",
+        "name": "product_name",
+        "price": "5000",
+        "img": "url"
+    },
+]
