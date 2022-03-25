@@ -1,74 +1,56 @@
 [
-    {
-        "id": "01",
-        "name": "Sofaset",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "02",
-        "name": "Mockup",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "03",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "04",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "05",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "06",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "07",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "08",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "09",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "10",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "11",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
-    {
-        "id": "12",
-        "name": "product_name",
-        "price": "5000",
-        "img": "url"
-    },
+  {
+    "id": "01",
+    "name": "Coffee Table",
+    "price": "5000",
+    "img": "https://fakedata-pictures.netlify.app/images/Blue%20Bottle%20Coffee%20cafe%20in%20Yokohama%20boasts%20natural%20materials.jpeg"
+  },
+  {
+    "id": "02",
+    "name": "Reading Desk",
+    "price": "7500",
+    "img": "https://fakedata-pictures.netlify.app/images/bright%20springy%20living%20room%20_%20oasis%20rooms%20_%20luxury%20interior%20design%20and%20italian%20furniture.jpeg"
+  },
+  {
+    "id": "03",
+    "name": "Sofaset",
+    "price": "10000",
+    "img": "https://fakedata-pictures.netlify.app/images/Carson%20Carrington%20Indor%20Modern%20Tufted%20Fabric%20Rectangle%20Ottoman%20-%20On%20Sale%20-%20Overstock%20-%2028906072.jpeg"
+  },
+  {
+    "id": "04",
+    "name": "Comfortable Sofa",
+    "price": "8000",
+    "img": "https://fakedata-pictures.netlify.app/images/Casa%20Verde,%20decora%C3%A7%C3%A3o,%20m%C3%B3veis,%20design,%20interiores,%20estilo,%20beleza,%20sofistica%C3%A7%C3%A3o.jpeg"
+  },
+  {
+    "id": "05",
+    "name": "Channel Sofa",
+    "price": "9500",
+    "img": "https://fakedata-pictures.netlify.app/images/Channel%20Back%20Sofa.jpeg"
+  },
+  {
+    "id": "06",
+    "name": "Study Chair",
+    "price": "6000",
+    "img": "https://fakedata-pictures.netlify.app/images/KARIMOKU%20CASE%20STUDY%20_%20Collection%20_%20N-SC01.png"
+  },
+  {
+    "id": "07",
+    "name": "Dino Chair",
+    "price": "3500",
+    "img": "https://fakedata-pictures.netlify.app/images/Dino%20Chair%20by%20Thomas%20Alken.jpeg"
+  },
+  {
+    "id": "08",
+    "name": "Tom and Jerry Chair",
+    "price": "5500",
+    "img": "https://fakedata-pictures.netlify.app/images/Millie%20Chair.jpeg"
+  },
+  {
+    "id": "09",
+    "name": "Fat Tool",
+    "price": "2000",
+    "img": "https://fakedata-pictures.netlify.app/images/Hi%20atelier%20-%20De%20Medici%20Furniture.jpeg"
+  }
 ]
