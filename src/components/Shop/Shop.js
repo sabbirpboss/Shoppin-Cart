@@ -46,7 +46,7 @@ const Shop = () => {
                 }
             </div>
             <div className="selection-container">
-                <h1 className='selected-items'>Selected Items:</h1>
+                <h1 className='selected-items'>Selected <span>Furniture</span>'s:</h1>
                 
                     {
                         cart.map(item => <h2 className='custom-color item-name' key = {item.id}> <li>{item.name}</li></h2>)

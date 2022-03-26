@@ -25,6 +25,9 @@
     text-decoration-color: green;
     text-decoration-style:double;
 }
+.selected-items span{
+    text-transform: uppercase;
+}
 .item-name{
     border: 1px solid #bbb;
     padding: 10px;
