@@ -1,9 +1,9 @@
 # Shopping Cart A08
 
-This Project Live Site Link [Shopping Cart A08](https://shopping-cart-a08.netlify.app/).
+## `This Project Live Site Link [Shopping Cart A08](https://shopping-cart-a08.netlify.app/).`
 
 
-# Default Description
+# Default Description Below
 ## Available Scripts
 
 In the project directory, you can run:
