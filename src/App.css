@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* custom css */
+.for-width{
+  width: 1600px;
+  margin: 0 auto;
+}

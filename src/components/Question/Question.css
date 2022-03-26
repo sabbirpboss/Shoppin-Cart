@@ -1,0 +1,9 @@
+.question{
+    width: 1470px;
+    border: 1px solid violet;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 21px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
