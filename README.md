@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+### Shopping Cart A08
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project Live Site Link [Shopping Cart A08](https://shopping-cart-a08.netlify.app/).
 
+
+### Default Description
 ## Available Scripts
 
 In the project directory, you can run:
