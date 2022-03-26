@@ -4,7 +4,7 @@ import Shop from './components/Shop/Shop';
 
 function App() {
   return (
-    <div className='for-width'>
+    <div>
       <div className="App">
         <h1 className='custom-color-green'>Hey, Confused? Get Ready.
         </h1>
