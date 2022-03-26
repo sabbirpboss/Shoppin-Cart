@@ -80,7 +80,7 @@
 }
 
 /* responsive for Mobile device */
-@media screen and (max-width:360px){
+@media screen and (max-width:460px){
     .products-container{
         grid-template-columns: repeat(1, 1fr);
     }
