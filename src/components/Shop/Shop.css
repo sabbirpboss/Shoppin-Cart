@@ -84,4 +84,7 @@
     .products-container{
         grid-template-columns: repeat(1, 1fr);
     }
+    .shop-container{
+        grid-template-columns: 1fr 1fr;
+    }
 }
