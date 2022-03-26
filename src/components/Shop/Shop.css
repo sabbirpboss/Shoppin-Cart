@@ -78,3 +78,10 @@
     transition: .3s;
     cursor: pointer;
 }
+
+/* responsive for Mobile device */
+@media screen and (max-width:360px){
+    .products-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
