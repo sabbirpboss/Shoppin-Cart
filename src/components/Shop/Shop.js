@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import Selected from '../Cart/Selected';
 import Product from '../Product/Product';
 import './Shop.css'
 
@@ -11,10 +10,10 @@ const Shop = () => {
     const handleAddToCart = (singleProduct) => {
         const addedProduct = cart.find((item) => item.id === singleProduct.id);
         if(addedProduct){
-            alert("Already Added");
+            alert("Already Added This Product");
         }
         else if(cart.length >= 4){
-            alert("4 tar beshi hobe na")
+            alert("Not More Than Four");
         }
         else{
             const newCart = [...cart, singleProduct];
