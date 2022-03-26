@@ -17,8 +17,10 @@
     border: 1px solid #bbb;
     padding: 10px;
     border-radius: 5px;
+    background-color: rgb(137, 43, 226);
 }
 .selected-items{
+    color: #fff;
     text-decoration:underline;
     text-decoration-color: green;
     text-decoration-style:double;
@@ -30,7 +32,8 @@
     margin-bottom: 10px;
 }
 .custom-color{
-    color: blueviolet;
+    color: #fff;
+    list-style: disc;
 }
 .custom-color-green{
     color: green;

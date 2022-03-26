@@ -49,7 +49,7 @@ const Shop = () => {
                 <h1 className='selected-items'>Selected Items:</h1>
                 
                     {
-                        cart.map(item => <h2 className='custom-color item-name' key = {item.id}>{item.name}</h2>)
+                        cart.map(item => <h2 className='custom-color item-name' key = {item.id}> <li>{item.name}</li></h2>)
                     }
                 
                 <button onClick={randomOne} className="choose-btn"> Choose 1 By Randomly</button>
