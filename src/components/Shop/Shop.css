@@ -14,7 +14,9 @@
 .selection-container{
     margin-left: 50px;
     margin-right: 50px;
-    margin-top: -17px;
+    border: 1px solid #bbb;
+    padding: 10px;
+    border-radius: 5px;
 }
 .selected-items{
     text-decoration:underline;
@@ -29,6 +31,9 @@
 }
 .custom-color{
     color: blueviolet;
+}
+.custom-color-green{
+    color: green;
 }
 .choose-btn{
     border: 1px solid green;

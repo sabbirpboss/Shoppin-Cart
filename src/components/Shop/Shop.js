@@ -52,9 +52,9 @@ const Shop = () => {
                         cart.map(item => <h2 className='custom-color item-name' key = {item.id}>{item.name}</h2>)
                     }
                 
-                <button onClick={randomOne} className="choose-btn">Random Choose</button>
+                <button onClick={randomOne} className="choose-btn"> Choose 1 By Randomly</button>
                 <br />
-                <button onClick={resetButton} className='clear-all-btn'>Clear all</button>
+                <button onClick={resetButton} className='clear-all-btn'>Clear All</button>
             </div>
         </section>
     );
