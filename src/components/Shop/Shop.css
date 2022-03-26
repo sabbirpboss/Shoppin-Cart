@@ -38,6 +38,9 @@
 .custom-color-green{
     color: green;
 }
+.custom-color-blueviolet{
+    color: blueviolet;
+}
 .choose-btn{
     border: 1px solid green;
     color: green;
@@ -57,7 +60,6 @@
 }
 .clear-all-btn{
     border: 1px solid blueviolet;
-    color: blueviolet;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;

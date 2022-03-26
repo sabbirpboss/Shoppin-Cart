@@ -54,7 +54,7 @@ const Shop = () => {
                 
                 <button onClick={randomOne} className="choose-btn"> Choose 1 By Randomly</button>
                 <br />
-                <button onClick={resetButton} className='clear-all-btn'>Clear All</button>
+                <button onClick={resetButton} className='clear-all-btn custom-color-blueviolet'>Clear All</button>
             </div>
         </section>
     );

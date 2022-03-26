@@ -7,7 +7,7 @@ function App() {
       <div className="App">
         <h1 className='custom-color-green'>Hey, Confused? Get Ready.
         </h1>
-        <h2 className='custom-color'>Choose Your Favourite but Only Four!!!</h2>
+        <h2 className='custom-color-blueviolet'>Choose Your Favourite but Only Four!!!</h2>
       </div>
       <Shop></Shop>
     </div>
