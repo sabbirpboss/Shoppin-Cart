@@ -13,6 +13,9 @@ const Shop = () => {
         if(addedProduct){
             alert("Already Added");
         }
+        else if(cart.length >= 4){
+            alert("4 tar beshi hobe na")
+        }
         else{
             const newCart = [...cart, singleProduct];
             setCart(newCart);
@@ -45,12 +48,14 @@ const Shop = () => {
             </div>
             <div className="selection-container">
                 <h1 className='selected-items'>Selected Items:</h1>
-                {
-                    cart.map(item => <h2 className='custom-color' key = {item.id}>{item.name}</h2>)
-                }
-                <button onClick={randomOne}>Random Choose</button>
-                <button onClick={resetButton}>Clear all</button>
-                {/* <Selected></Selected> */}
+                
+                    {
+                        cart.map(item => <h2 className='custom-color item-name' key = {item.id}>{item.name}</h2>)
+                    }
+                
+                <button onClick={randomOne} className="choose-btn">Random Choose</button>
+                <br />
+                <button onClick={resetButton} className='clear-all-btn'>Clear all</button>
             </div>
         </section>
     );
