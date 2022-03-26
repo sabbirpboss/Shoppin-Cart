@@ -1,8 +1,3 @@
-.selected-items{
-    text-decoration: overline;
-    text-decoration-color: blueviolet;
-    text-decoration-style:double;
-}
 .choose-btn{
     border: 1px solid green;
     color: green;

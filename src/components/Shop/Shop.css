@@ -11,3 +11,11 @@
     margin-left: 50px;
     margin-right: 20px;
 }
+.selected-items{
+    text-decoration:underline;
+    text-decoration-color: green;
+    text-decoration-style:double;
+}
+.custom-color{
+    color: blueviolet;
+}
